@@ -62,15 +62,4 @@ This project is a **Full-Stack Web Application** built using **React** for the f
 ✅ Responsive UI with Bootstrap
 ✅ Database connectivity using JDBC
 
----
-
-## 🤝 Contributing
-Feel free to fork this repository and contribute. For major changes, please open an issue first to discuss the modifications.
-
----
-
-## 📩 Contact
-For any inquiries or issues, reach out to **[Your Name]** at **your.email@example.com**.
-
-Happy Coding! 🚀
 
